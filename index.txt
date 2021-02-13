@@ -1,0 +1,3 @@
+使用言語 ruby php javaScript dart 
+DB mysql postgresql 
+フレームワーク ruby on rails laravel react flutter 
